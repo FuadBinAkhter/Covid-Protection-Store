@@ -1,0 +1,35 @@
+
+
+body
+{
+    background-color: whitesmoke;
+}
+
+.tableBody
+{
+    margin: 5%;
+    box-shadow: 0px 10px 20px 0px rgba(50, 50, 50, 0.52);
+    border-radius: 10px;
+    background-color: white;
+    text-align: center;
+}
+
+table th:first-child{
+  border-radius:10px 0 0 0;
+}
+
+table th:last-child{
+  border-radius:0 10px 0 0;
+}
+
+.thead
+{
+    background-color:black;
+    color: white;
+    text-align: center;
+}
+
+h3
+{
+  text-align: center;
+}

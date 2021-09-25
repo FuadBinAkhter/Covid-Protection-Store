@@ -1,0 +1,21 @@
+table, tr, td{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1000px;
+}
+
+img{
+	height: 100px;
+	width: 100px;
+}
+
+.cart_items a img{
+	width: 25px;
+	height: 25px;
+	border-radius: 100%;
+}
+
+h2{
+	text-align: center;
+}
+	
