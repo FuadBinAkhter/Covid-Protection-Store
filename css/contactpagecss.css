@@ -1,0 +1,160 @@
+/*
+*{
+	font-family: 'Montserrat', sans-serif;
+}
+*/
+
+html, body{
+	margin: 0;
+	min-height: 100%;
+}
+
+body
+{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.container input, .container textarea{
+	/*
+	font-size: 13px;
+	font-weight: 300;
+	*/
+	font-size: 17px;
+}
+
+.container label{
+	color: #FFF;
+	font-size: 17px;
+}
+
+.container-wrapper1{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+/*
+.container-wrapper1 .wrapper1{
+	background: #f2f2f2;
+	height: 100%;
+}
+*/
+.container-wrapper1 .container{
+	padding-top: 10px;
+}
+
+.container-wrapper1 .wrapper1{
+	overflow: hidden;
+	position: relative;
+	padding-bottom: 100%;
+	height: 100%;
+}
+
+.container-wrapper1 iframe{
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	left: 0;
+	top: 0;
+}
+
+.container-wrapper1 form{
+	padding: 20px 50px 50px;
+}
+
+.container-wrapper1 h1{
+	padding: 50px;
+	color: #FFF;
+}
+
+.container-wrapper1 .wrapper2{
+	/*
+	background: #33485d;
+	*/
+	background-color: black;
+}
+
+.container-wrapper1 .col-md-6{
+	padding: 0;
+}
+
+.container-wrapper2 .col-md-4{
+	position: relative;
+	padding: 70px 0;
+}
+
+.container-wrapper2 img{
+	position: absolute;
+	left: 50%;
+	top: 30px;
+	transform: translate(-50%, -50%);
+	z-index: 10;
+	height: 40px;
+	width: 40px;
+}
+
+.container-wrapper2 .row{
+	padding: 50px 50px 0;
+}
+
+.container-wrapper2 h2{
+	text-align: center;
+	font-size: 13px;
+	font-weight: 800;
+	color: #000;
+	margin: 0;
+	padding: 5px;
+}
+
+.container-wrapper2 h3{
+	text-align: center;
+	font-size: 18px;
+	font-weight: 300;
+	color: #000;
+	margin: 0;
+	padding: 0;
+}
+
+/*
+.social-icon{
+	text-align: center;
+	background: #33485d;
+}
+
+.social-icon h2{
+	padding: 50px 0 0px;
+	font-weight: 700;
+	color: #FFF;
+}
+
+ul{
+	display: inline-block;
+	margin: 0;
+	padding: 0 0 15px;
+}
+
+ul li{
+	list-style-type: none;
+	float: left;
+	padding: 20px;
+}
+
+ul li img{
+	height: 50px;
+	width: 50px;
+	border-radius: 100%;
+}
+*/
+
+.container-wrapper2 h2, .container-wrapper1 h1, .container-wrapper1 label
+{
+	font-family: 'Ubuntu', sans-serif; 
+}
+
+.container-wrapper1 input, .container-wrapper1 textarea, .container-wrapper2 h3
+{
+	font-family: 'DM Sans', sans-serif;
+}
+
+.message_status{
+	text-align: center;
+}
+

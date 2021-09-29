@@ -1,0 +1,8 @@
+<label class="list-group-item mt-5" style="color:white; background-color: #212529;">Sort by: </label>
+            <select class="list-group-item list-group-item-action" name="forma" onchange="location = this.value;">
+            
+              <option value="products.php">Default</option>
+              <option value="sortedAscending.php">Price (Low > High)</option>
+              <option value="sortedDescending.php">Price (High > Low)</option>
+
+            </select>

@@ -1,0 +1,93 @@
+html, body{
+height: 100%;
+}
+
+body{
+/*background: #33485d;*/
+margin: 0;
+padding: 0;
+}
+
+.header h1{
+text-align: center;
+font-size: 50px;
+/*font-weight: 700;*/
+font-family: 'Ubuntu', sans-serif;
+padding: 50px 0 0;
+margin: 0;
+/*color: #FFF;*/
+}
+
+.col-md-4.col-sm-6{
+position: relative;
+}
+
+.container .images{
+background: #FFFFFF;
+position: absolute;
+border-radius: 100%;
+border: 2px solid gray;
+top: 145px;
+left: 50%;
+transform: translate(-50%, -50%);
+z-index: 10;
+}
+
+.container .images img{
+height: 150px;
+width: 150px;
+border-radius: 100%;
+}
+
+.container .title-wrapper{
+background: #FFF;
+text-align: center;
+height: 75%;
+box-shadow: 2px 2px 5px #b6b6b6;
+margin-top: 150px;
+border-radius: 15px;
+}
+
+.container .image-title{
+padding: 115px 0 20px;
+}
+
+.social-icon{
+	position: absolute;
+	left: 50%;
+	bottom: -50px;
+	transform: translate(-50%, -50%);
+	z-index: 10;
+}
+
+.social-icon ul{
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+}
+
+.social-icon ul li{
+	list-style-type: none;
+	float: left;
+	padding-right: 3px;
+	padding-left: 3px;
+}
+
+.social-icon ul li img{
+	height: 30px;
+	width: 30px;
+}
+
+/****************************************************/
+.image-title h4, .image-title h5, .image-title h6
+{
+	font-family: 'Ubuntu', sans-serif;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+footer
+{
+	margin-top: 100px;
+}
+
