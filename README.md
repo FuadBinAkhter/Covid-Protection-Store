@@ -16,4 +16,4 @@ Covid Protection Store is an e-commerce website for selling COVID protective equ
 * The admins can add new products from the dashboard. They can also view information about the users, orders and all products. They can view the messages from the users as well.
  
 ## **For More information**
-[Read details of Covid Protection Store](https://drive.google.com/file/d/1Beph5cQPu7SPJ0YdfmCkqgWnIGBUlAS5/view?usp=sharing)
+[Read details of Covid Protection Store](https://drive.google.com/file/d/1Ui21coSXJpARyBqMbT8ZDDVvviYQDP1e/view?usp=sharing)
